@@ -125,6 +125,22 @@
 [END]
 
 [START,card,img_comment]
+[TAG]ゲーム
+[TITLE]しかくくん！ジャンプする！！Web移植版
+[IMG]./materials/portfolio/official-site.png
+[TXT]Pythonで書かれたゲームだった「しかくくん！ジャンプする！！」をWeb移植しました
+[URL]https://arnie-pj.github.io/shikaku-jump-web/
+[END]
+
+[START,card,img_comment]
+[TAG]オフィシャルサイト
+[TITLE]Arnie Yield 公式サイト
+[IMG]./materials/portfolio/official-site.png
+[TXT]このサイトです。どーよ？
+[URL]https://arnie-pj.github.io/official-site/
+[END]
+
+[START,card,img_comment]
 [TAG]ファンサイト
 [TITLE]労働村の村人1さん 歌ってみた検索
 [IMG]./materials/portfolio/muraichi-utamita.png
