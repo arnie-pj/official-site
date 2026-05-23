@@ -127,7 +127,7 @@
 [START,card,img_comment]
 [TAG]ゲーム
 [TITLE]しかくくん！ジャンプする！！Web移植版
-[IMG]./materials/portfolio/official-site.png
+[IMG]./materials/portfolio/shikaku-jump-web.png
 [TXT]Pythonで書かれたゲームだった「しかくくん！ジャンプする！！」をWeb移植しました
 [URL]https://arnie-pj.github.io/shikaku-jump-web/
 [END]
