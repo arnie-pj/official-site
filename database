@@ -1,0 +1,212 @@
+[SITE_NAME]Arnie Yield 公式サイト
+[LOGO]./materials/logo/arnie-logo.png
+[FOOTER]created by Arnie Yield
+
+# TOP
+[START,wide,html]
+<img src="./materials//top/top_img1.png"><br>
+兄のアニー・イールドと妹のアリー・イールドの2人チャンネル。大体兄が配信してます。<br>
+だいたい毎日23時から好評配信中！！
+[END]
+
+!!![START,wide,html]
+!!!リンクはこちら！<br>
+!!!・<a href="https://www.youtube.com/@arnie-yield">🎥 YouTube</a><br>
+!!!・<a href="https://x.com/arnie_yield">𝕏 X（旧Twitter）</a><br>
+!!!・<a href="https://marshmallow-qa.com/arnie_yield">💌 マシュマロ</a><br>
+!!![END]
+
+[START,card,link,general]
+[TITLE]YouTubeチャンネル
+[IMG]./materials/top/youtube.png
+[TXT]公式YouTubeチャンネルはこちら！
+[URL]https://www.youtube.com/@arnie-yield
+[END]
+
+[START,card,link,general]
+[TITLE]X（旧Twitter）
+[IMG]./materials/top/x.png
+[TXT]公式Xはこちら！
+[URL]https://x.com/arnie_yield
+[END]
+
+[START,card,link,general]
+[TITLE]マシュマロ
+[IMG]./materials/top/marshmallow.png
+[TXT]マシュマロ・お便りはこちらから！
+[URL]https://marshmallow-qa.com/arnie_yield
+[END]
+
+!!!## Arnie Yield（アニー・イールド／兄）プロフィール
+!!![START,wide,html]
+!!!<img src="./materials/top/arnie1.png">
+!!![END]
+
+!!!## Arie Yield（アリー・イールド／妹）プロフィール
+!!![START,wide,html]
+!!!<img src="./materials/top/arie1.png">
+!!![END]
+
+# FA集
+[START,wide,html]
+頂いたファンアート（FA）を掲載させて頂いています。いつも描いていただいてありがとうございます。本当に嬉しいんですよ！描いていただけるの！！
+[END]
+
+## アニー・イールド
+[START,card,fa_x]
+[TAG]みくみんみんせみさん @miku_n_2439
+[URL]https://x.com/miku_n_2439/status/2056396158533332993
+[IMG]https://pbs.twimg.com/media/HInJaJ_asAAICxV?format=jpg&name=small
+[TXT]赤ちゃんな自分がバニー耳を付けてるところです。恥ずかしい💦
+[END]
+
+[START,card,fa_x]
+[TAG]星空ほしなちゃん @if_q1q
+[URL]https://x.com/if_q1q/status/2055167782027919784
+[IMG]https://pbs.twimg.com/media/HIVsNGGbcAAGUo-?format=jpg&name=small
+[TXT]むらいっちゃん（労働村の村人1さん）と一緒にバニーボーイ衣装を着た自分です。色々と癖が詰め込まれてて恥ずかしいっ
+[END]
+
+[START,card,fa_x]
+[TAG]abcさん @abc4x
+[URL]https://x.com/abc4x/status/2050624195059700065
+[IMG]https://pbs.twimg.com/media/HHVHZCLa8AAmQ9d?format=jpg&name=small
+[TXT]泣いてる自分です。とっても可愛く描いて頂きました！そんなに僕泣いてるかなぁ
+[END]
+
+[START,card,fa_x]
+[TAG]日陰セイアさん @Seia_Hikage
+[URL]https://x.com/arnie_yield/status/2045565574361825716
+[IMG]https://pbs.twimg.com/media/HGNOUvXbYAEgM1e?format=jpg&name=small
+[TXT]吊られながらぷりくしに虐められてる自分です。なぜ自分は吊られがちなのか🤔
+[END]
+
+[START,card,fa_x]
+[TAG]日陰セイアさん @Seia_Hikage
+[URL]https://x.com/arnie_yield/status/2043141198639185997
+[IMG]https://pbs.twimg.com/media/HFqyD0OasAAiiRQ?format=jpg&name=small
+[TXT]penguin-blue-waving-tearと同じ表情の自分です。初めての人間体の自分のFAでした！
+[END]
+
+## アリー・イールド
+[START,card,fa_x]
+[TAG]ゆけさん @yuukei0706
+[URL]https://x.com/yuukei0706/status/2040833335099076788
+[IMG]https://pbs.twimg.com/media/HFJ_EzkaoAAgekg?format=jpg&name=small
+[TXT]ぷりちゃん・くしちゃん・ゆけさんと一緒にバニー衣装を着てるアリーです。地味ーっにアニペンも居ます。
+[END]
+
+## アニペン
+[START,card,fa_x]
+[TAG]ゆけさん @yuukei0706
+[URL]https://x.com/yuukei0706/status/2043333013875134889
+[IMG]https://pbs.twimg.com/media/HFtgbaTbQAAj7yA?format=jpg&name=small
+[TXT]ぷりちゃん・くしちゃんの応援を眺めてる自分です。役得うひょーっ！
+[END]
+
+[START,card,fa_x]
+[TAG]ゆけさん @yuukei0706
+[URL]https://x.com/yuukei0706/status/2043302635101667626
+[IMG]https://pbs.twimg.com/media/HFtE2BIbkAA2PkX?format=jpg&name=small
+[TXT]ぷりちゃん・くしちゃん・ゆけさんとで相変わらず吊られてる自分です。何故なのか...
+[END]
+
+[START,card,fa_x]
+[TAG]ゆけさん @yuukei0706
+[URL]https://x.com/yuukei0706/status/2038286695234474353
+[IMG]https://pbs.twimg.com/media/HEly1IBbIAA4xBM?format=jpg&name=small
+[TXT]ぷりちゃん・くしちゃんのとこで、ゆけさんとこのアオちゃんと一緒に吊られてる自分です。何故吊られてるのか...
+[END]
+
+
+# ポートフォリオ
+[START,wide,html]
+自分がこれまでに開発／作成・リリースしたものをまとめました！是非色々試してみてくださいね
+[END]
+
+[START,card,img_comment]
+[TAG]ファンサイト
+[TITLE]労働村の村人1さん 歌ってみた検索
+[IMG]./materials/portfolio/muraichi-utamita.png
+[TXT]ちょっとPONだけど歌枠はカッコいいむらいっちゃんこと、労働村の村人1さん。そんなむらいっちゃんのおうたをみんなで聞こう！
+[URL]https://arnie-pj.github.io/muraichi-utamita/
+[END]
+
+[START,card,img_comment]
+[TAG]ユーティリティ
+[TITLE]推しが動いたぞ！（プロトタイプ）
+[IMG]./materials/icon_noimage.png
+[TXT]推しのLIVE配信が始まった際にデスクトップ上で通知が来るソフト
+[URL]https://github.com/arnie-pj/oshiugo
+[END]
+
+[START,card,img_comment]
+[TAG]ファンサイト
+[TITLE]照瑚なすさん 歌ってみた検索
+[IMG]./materials/portfolio/nasu-utamita.png
+[TXT]「1富士2鷹3茄子、いつかはなりたい1茄子」でおなじみ、バ美肉アンドロイドVtuber照瑚なすさんの歌声をもっと楽しもう！
+[URL]https://arnie-pj.github.io/nasu-utamita/
+[END]
+
+[START,card,img_comment]
+[TAG]ファンサイト
+[TITLE]ゆかちボタン
+[IMG]./materials/portfolio/yukachi-button.png
+[TXT]ゆかちの動画のチャット欄で言及されてたゆかちボタン、作っちゃいました。ボタンをタップしてゆかちの声を聞こう！
+[URL]https://arnie-pj.github.io/yukachi-button/
+[END]
+
+[START,card,img_comment]
+[TAG]ユーティリティ
+[TITLE]KomeKome
+[IMG]./materials/portfolio/komekome.png
+[TXT]YouTubeLiveのコメントを管理するシステムです
+[URL]https://github.com/arnie-pj/komekome
+[END]
+
+[START,card,img_comment]
+[TAG]ユーティリティ
+[TITLE]Retrogame Big Vision Viewer (RBV2)
+[IMG]./materials/portfolio/rbv2v2.png
+[TXT]レトロゲームのビジョンをビックに映すやつです。レトロゲーの画面を配信前提に綺麗に映します
+[URL]https://github.com/arnie-pj/retrogame-big-vision-viewer/
+[END]
+
+[START,card,img_comment]
+[TAG]ゲーム
+[TITLE]しかくくん！ジャンプする！！
+[IMG]./materials/portfolio/shikaku-jump.png
+[TXT]四角いキャラクター「しかくくん」をジャンプさせて出来る限り長く進み続けるゲームです。WindowsかPython＋OpenCV実行環境で動きます
+[URL]https://github.com/arnie-pj/shikaku-jump
+[END]
+
+[START,card,img_comment]
+[TAG]ユーティリティ
+[TITLE]鼓膜カウンター
+[IMG]./materials/portfolio/komaku-counter.png
+[TXT]「鼓膜」の数を数えるやつ with 配信者シミュレータ
+[URL]https://github.com/arnie-pj/komaku-counter/
+[END]
+
+[START,card,img_comment]
+[TAG]ファンゲーム
+[TITLE]お寿司だよ！ゆかっ狐集合！
+[IMG]./materials/portfolio/yukachi-sushi.jpg
+[TXT]VTuber神楽月ゆか（ゆかち）のFAゲームです
+[URL]https://github.com/arnie-pj/yukachi-sushi
+[END]
+
+
+!!! ############################################
+!!! ここからメモで置いているもの
+!!! ############################################
+
+!!!# おススメ動画
+!!!## おススメ動画リンク集
+!!![START,card,link,youtube]
+!!![URL]https://www.youtube.com/watch?v=a8qZZAwMQAI
+!!![END]
+!!!## おススメXリンク集
+!!![START,card,link,x]
+!!![URL]https://x.com/arnie_yield/status/2058099249519456377
+!!![END]
