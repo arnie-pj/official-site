@@ -702,7 +702,10 @@ function parseDatabase(text) {
     /* ページ切り替え: # タイトル */
     if (/^#\s+/.test(line) && !line.startsWith('##')) {
       finalizeCard();
-      currentPage = { title: line.replace(/^#\s+/,''), sections: [] };
+      const rawTitle    = line.replace(/^#\s+/,'');
+      const noPageTitle = rawTitle.includes('[NoPageTitle]');
+      const title       = rawTitle.replace('[NoPageTitle]','').trim();
+      currentPage = { title, noPageTitle, sections: [] };
       result.pages.push(currentPage);
       currentSection = null;
       continue;
@@ -986,6 +989,16 @@ function renderPages(data) {
   } else {
     document.getElementById('headerLogo').style.display = 'none';
   }
+  /* クリックで最初のタブ（page-0）へ */
+  siteNameEl.style.cursor = 'pointer';
+  siteNameEl.addEventListener('click', () => {
+    document.querySelectorAll('.nav-tab').forEach(t => t.classList.remove('active'));
+    document.querySelectorAll('.page').forEach(p => p.classList.remove('active'));
+    const firstTab  = document.querySelector('.nav-tab');
+    const firstPage = document.getElementById('page-0');
+    if (firstTab)  firstTab.classList.add('active');
+    if (firstPage) firstPage.classList.add('active');
+  });
   if (data.footerText) {
     document.getElementById('footerText').textContent = data.footerText;
   }
@@ -1019,7 +1032,9 @@ function renderPages(data) {
     /* ページヒーロー */
     const hero = document.createElement('div');
     hero.className = 'page-hero';
-    hero.innerHTML = `<div class="page-hero-title">${esc(page.title)}</div>`;
+    if (!page.noPageTitle) {
+      hero.innerHTML = `<div class="page-hero-title">${esc(page.title)}</div>`;
+    }
     pageEl.appendChild(hero);
 
     let cardIdx = 0;
