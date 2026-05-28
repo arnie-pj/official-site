@@ -2,19 +2,12 @@
 [LOGO]./materials/logo/arnie-logo.png
 [FOOTER]created by Arnie Yield
 
-# TOP
+# TOP[NoPageTitle]
 [START,wide,html]
 <img src="./materials//top/top_img1.png"><br>
 兄のアニー・イールドと妹のアリー・イールドの2人チャンネル。大体兄が配信してます。<br>
 だいたい毎日23時から好評配信中！！
 [END]
-
-!!![START,wide,html]
-!!!リンクはこちら！<br>
-!!!・<a href="https://www.youtube.com/@arnie-yield">🎥 YouTube</a><br>
-!!!・<a href="https://x.com/arnie_yield">𝕏 X（旧Twitter）</a><br>
-!!!・<a href="https://marshmallow-qa.com/arnie_yield">💌 マシュマロ</a><br>
-!!![END]
 
 [START,card,link,general]
 [TITLE]YouTubeチャンネル
